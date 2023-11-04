@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.exe
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.deps.json
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.runtimeconfig.json
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.dll
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.pdb
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.AssemblyInfo.cs
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.dll
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\obj\Debug\net6.0\refint\ConsoleApp36.dll
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.pdb
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.genruntimeconfig.cache
+C:\Users\Birinci Novbe\source\repos\ConsoleApp36\obj\Debug\net6.0\ref\ConsoleApp36.dll
